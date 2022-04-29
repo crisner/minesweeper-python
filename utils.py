@@ -7,5 +7,3 @@ def height_perc(percentage):
 
 def width_perc(percentage):
     return (settings.WIDTH / 100) * percentage
-
-print(width_perc(25))
